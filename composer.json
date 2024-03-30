@@ -6,6 +6,11 @@
         "php": "^8.3",
         "psr/clock": "dev-master"
     },
+    "suggest": {
+        "potter/clock": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
